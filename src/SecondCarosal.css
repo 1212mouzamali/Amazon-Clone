@@ -1,0 +1,71 @@
+
+
+/* body{
+    background-color: #e3e6e6ff;
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    margin-left: 3.5%;
+}
+
+button{
+    display: none;
+}
+.sangli{
+   width: 19.28%;
+   height: 7.55%; 
+}
+.btooth{
+    width: 19.28%;
+    height: 14.22%; 
+ }
+ .whitebutton{
+    width: 8.65%;
+    height: 14.30%; 
+ }
+
+ .tempmeter{
+    width: 20%;
+    height: 7.55%; 
+ }
+.mobilescenery{
+    width: 4.29%;
+    height: 14.29%;
+}
+.mirrorplace{
+    width: 14%;
+    height: 14.29%;
+}
+.motorcover{
+    width: 19.80%;
+    height: 12.50%;
+}
+.buttonhandle{
+    width: 19.79%;
+   height: 7.59%; 
+}
+.whitebutton{
+    width: 5.55%;
+    height: 14.30%; 
+ }
+ .feedpacket{
+    width: 19.79%;
+    height: 14.51%;
+    margin-left: 2%;
+ }
+.redhandle{
+        width: 19.80%;
+        height: 8%;
+}
+
+/* .carousel-control-prev-icon{
+    border: 10px solid black;
+}
+a.carousel-control-prev{
+    background-color: blue;
+} */

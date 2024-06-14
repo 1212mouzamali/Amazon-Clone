@@ -1,0 +1,89 @@
+/* four images of headset starts here */
+/* four images of headset starts here */
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box !important;
+}
+.Betweencarosels-container{
+
+    width: 100% !important;
+    position: absolute;
+    top: 60%;
+    left: 7%;
+    
+}
+
+.Gaming{
+    font-size: calc(1.2vw + 5px);
+    color: #0F1111;
+    font-weight: 700;
+    padding: 5%;
+}
+.headset-col {
+    width: 24% !important;
+    margin-left: 1%;
+ padding: 0 !important;
+}
+
+.Balu{
+    width: 100%;
+    
+    
+}
+/* .Balu-col{
+    margin-left: 5%;
+
+} */
+.Fuji{
+    width: 100%;
+  
+}
+
+.Keyboard {
+    width: 90%;
+   
+}
+
+.Mouse {
+    width: 90%;
+   
+}
+
+.Chair {
+    width: 90%;
+    
+}
+.Headset {
+    width: 90%;
+    
+}
+.water{
+    width: 90%;
+    
+}
+.lunch{
+    width: 90%;
+}
+.cloth{
+    width: 90%;
+
+}
+.perfume{
+    width: 90%;
+
+}
+
+.for-color{
+    background-color: #e3e6e6;
+}
+/* .second-inter-carousel{
+    position: fixed;
+} */
+p{
+    font-size: calc(1vw + 5px);
+}
+
+
+/* four images of headset ends here */
+/* four images of headset ends here */

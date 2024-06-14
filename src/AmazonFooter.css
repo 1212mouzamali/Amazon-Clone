@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding-top: 0%;
+}
+@font-face {
+    font-family: amazonember;
+    src: url('./Amazonfonts/Amazon\ Ember.ttf');
+}
+p{
+    color: #999999;
+    font-size: calc(0.8vw + 1px);
+    margin-bottom: 0;
+    font-family: amazonember;
+}
+p:hover{
+    text-decoration: underline;
+}
+.main{
+    background-color: #131921ff;
+    height: auto;
+}
+.DDDDD{
+    color: #DDDDDD;
+    font-family: amazonember;
+    font-size: calc(0.8vw + 1px);
+}
+.bluecross{
+    width: 5%;
+}

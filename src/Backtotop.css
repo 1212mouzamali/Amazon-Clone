@@ -1,0 +1,41 @@
+.Backtotop-anchor {
+    background-color: #364659ff;
+    width: 100%;
+    font-family:amazonember;
+     font-size: calc(0.9vw + 1px);
+}
+@font-face {
+    font-family: amazonember;
+    src: url('./Amazonfonts/Amazon\ Ember.ttf');
+}
+.Backtop-uli ul li a{
+    text-decoration: none;
+
+}
+.Backtop-uli ul li a:hover{
+    border-bottom: 1px solid white;
+}
+
+.Backtop-main{
+    background-color: #222e3dff;
+    width: 100% !important;
+    padding-top: 5%;
+}
+.Backtop-main h6{
+    color: white;
+}
+.Backtop-main ul li a{
+    font-size: calc(0.9vw + 1px);
+    color: #DDDDDD;
+}
+.backtop-amazon-logo{
+    border: 1px solid white;
+    padding: 2%;
+}
+ .backtop-english,.backtop-USD,.backtop-US{
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    color:#CCCCCC;
+    padding: 2%;
+    margin-left: 10px;
+}
